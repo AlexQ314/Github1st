@@ -3,4 +3,4 @@ print "What"
 
 print "online change"
 
-print "WTF"
+print "NO WTF"
